@@ -1,2 +1,3 @@
 # distexec
-Distribute experiments with Symbiotic over computers
+Distribute experiments with Symbiotic over (our) computers.
+
